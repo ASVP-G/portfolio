@@ -9,7 +9,7 @@
   1. Data Import and Cleaning: Imported the data from CSV files using the COPY command and resolved data integrity issues (UTF-8 encoding errors).
   2. Data Modeling and Setup: Designed and created a relational database schema with four tables (orders, order_details, pizzas, pizza_types) using CREATE TABLE statements. 
   3. SQL Analysis: Answered key business questions like what are the best performing pizzas by both revenue and sales volume, what are the worst performing pizzas, and what days and times of day are the busiest. Made views of these queries for easier analysis.
-  4. Used this data to create a dashboard in Tableau. The dashboard clearly visualizes various insights like the best selling pizzas by volume, or the best day of the week for sales. On the dashboard, I also provide business recommendations based on the findings of my analysis.
+  4. Data Visualization: Used this data to create a dashboard in Tableau. The dashboard clearly visualizes various insights like the best selling pizzas by volume, or the best day of the week for sales. On the dashboard, I also provide business recommendations based on the findings of my analysis.
   5. Picture of dashboard <img width="1417" height="807" alt="Dashboard public" src="https://github.com/user-attachments/assets/3c5d612c-0eb5-4bb4-a551-58656066797f" />
 
      
